@@ -1,0 +1,11 @@
+#form1 fieldset #uno #nombre {
+	width: 25%;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #C30;
+	border-right-color: #C30;
+	border-bottom-color: #C30;
+	border-left-color: #C30;
+}
